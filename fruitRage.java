@@ -247,7 +247,7 @@ class set implements Comparable<set> {
         return other.key-this.key;
     }
 }
-public class homework {
+public class fruitRage {
     public static void main(String[] args) {
         //ThreadMXBean threadMXBean = ManagementFactory.getThreadMXBean();
        // threadMXBean.setThreadCpuTimeEnabled(true);
